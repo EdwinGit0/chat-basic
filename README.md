@@ -1,2 +1,2 @@
 # chat-basic
-chat web con socket io 
+chat web con react express y socket io 
